@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  padding: 20px;
+  font-size: 3vw;
+}
+
+header {
+  background-color: blue;
+  padding: 20px;
+  color: white;
+  border-radius: 12px;
+  padding: 1vh 1vw;
+  border-radius: 1vh;
+  margin-bottom: 1vh;
+}
+
+main{
+  height: 60vh;
+  width: 100%;
+  padding:20px;
+}
+
+
+
+footer {
+  padding-top: 1vw;
+  margin-top: 1vw;
+  display: flex;
+  justify-content: center;
+}
